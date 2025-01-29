@@ -1,16 +1,40 @@
-# hotel
+### 🏨 Hotel Booking App - **X Hotel**  
 
-A new Flutter project.
+#### 📌 Overview  
+**X Hotel** is a mobile application designed to help users easily find hotel branches, view their prices, and book accommodations effortlessly. The app provides a seamless user experience, ensuring travelers can explore various hotel options in coastal areas like Hurghada and Marsa Alam.  
 
-## Getting Started
+#### ✨ Features  
+- 🌍 **Branch Finder:** Browse different hotel branches and their locations.  
+- 💰 **Price Details:** Check room rates and special offers.  
+- 📅 **Easy Booking:** Reserve rooms in just a few clicks.  
+- ⭐ **Ratings & Reviews:** View hotel ratings for better decision-making.  
+- 📍 **Interactive UI:** A clean and modern design for a smooth experience.  
 
-This project is a starting point for a Flutter application.
+#### 📸 Screenshot  
+![App Screenshot](file-1iTn8tkRjsPqHF34BSQspV)  
 
-A few resources to get you started if this is your first Flutter project:
+#### 🚀 Tech Stack  
+- **Frontend:** Flutter (Dart)  
+- **Backend:** (Mention if any, e.g., Firebase, Node.js)  
+- **Database:** (Specify if used, or mention "No database")  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+#### 🛠 How to Install  
+1. Clone the repository:  
+   ```sh
+   git clone https://github.com/your-repo/hotel-booking-app.git
+   ```  
+2. Navigate to the project directory:  
+   ```sh
+   cd hotel-booking-app
+   ```  
+3. Install dependencies:  
+   ```sh
+   flutter pub get
+   ```  
+4. Run the app:  
+   ```sh
+   flutter run
+   ```  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#### 📩 Contact  
+For inquiries or support, contact [Your Email] or visit our website.  
